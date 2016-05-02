@@ -1,0 +1,21 @@
+This project was built on initial set of codes provided by Dr. Calliss as a part of the course work.
+
+Readme
+------------
+
+1) There are two project file
+
+	- Hateoas-appeals-smohan18-Netbeans8.0.2-Server
+	- Hateoas-appeals-smohan18-Netbeans8.0.2-client
+
+2) Load both the projects into netbeans
+
+3) Clean and Build the server project 
+
+4) Run the server project
+
+5) once the server runs successfull, clean and build the client project
+
+6) Run the client project
+
+7) the output will be displayed on the console 
